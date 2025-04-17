@@ -184,4 +184,3 @@ Then install plugins in Vim with:
 - `neovim` — Modern fork with Lua scripting and better plugin support  
 - `nano` — Simpler CLI text editor  
 - `emacs` — More complex but very extensible
-```
